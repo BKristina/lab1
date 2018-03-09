@@ -1,0 +1,11 @@
+commit 5286f85c9677be337fd0b3adda0e648461957cb2 (HEAD -> master, origin/master, logging)
+Author: Kristina <kristina.bazgaloska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:53:41 2018 +0100
+
+    modify l1.txt
+
+commit 3666ed0384f073fad83ba88e048c1b95f3fb13c3
+Author: Kristina <kristina.bazgaloska@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:51:26 2018 +0100
+
+    Initial commit
